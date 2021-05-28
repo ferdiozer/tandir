@@ -1,3 +1,4 @@
+<p align="center"><img src="https://pistatic.piyanos.com/uploads/tandir/tandir-logo-x512.png"></p>
 # Tandır
 
 Download this app on Google Play Store <a href="https://play.google.com/store/apps/details?id=com.piyanos.tandir">Tandır - Kısmetindir</a>.
