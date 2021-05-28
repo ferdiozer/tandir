@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.piyanos.tandir"><img alt="	Tandır - ücretsiz flört & arkadaşlık uygulaması!" style="height: 120px;" src="https://pistatic.piyanos.com/uploads/tandir/tandir-logo-x512.png"></a>
+<a href="https://play.google.com/store/apps/details?id=com.piyanos.tandir"><img alt="	Tandır - ücretsiz flört & arkadaşlık uygulaması!" style="height:0px;" src="https://play-lh.googleusercontent.com/kilc3w4tVLZNzPn0JkKn9BksuM8gMsF7bAp-IPq7vO5CA6DvJM8tz5H3sLlGMu8U-T0=s180-rw"></a>
 </p>
 
 # Tandır
