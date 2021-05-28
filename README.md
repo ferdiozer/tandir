@@ -8,6 +8,6 @@ A basic study for testing purposes.
 
 <center>
 	<a title="Kısmetindir (84.Bölüm) - Çok Güzel Hareketler 2" href="https://www.youtube.com/watch?v=uvbU_1fXh60&t=214s" rel="nofollow">
-		<img src="https://www.instamobile.io/wp-content/uploads/2019/04/react-native-swipe-cards.png" alt="Tinder Swipe Cards-Kısmetindir"></a>
+		<img src="https://github.com/ferdiozer/tandir/blob/main/assets/images/tandir-cover.jpg" alt="Tinder Swipe Cards-Kısmetindir"></a>
 </center>
 
