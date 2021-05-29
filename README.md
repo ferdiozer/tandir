@@ -9,9 +9,12 @@ Download this app on Google Play Store <a href="https://play.google.com/store/ap
 ## React Native Swipe Cards
 
 A basic study for testing purposes.
+<br/>
+This video led to development
+ Watchon on <a title="Kısmetindir (84.Bölüm) - Çok Güzel Hareketler 2" href="https://www.youtube.com/watch?v=uvbU_1fXh60&t=214s">Youtube</a>
 
 <center>
-	<a title="Kısmetindir (84.Bölüm) - Çok Güzel Hareketler 2" href="https://www.youtube.com/watch?v=uvbU_1fXh60&t=214s" rel="nofollow">
+	<a title="Kısmetindir (84.Bölüm) - Çok Güzel Hareketler 2" href="https://www.youtube.com/watch?v=uvbU_1fXh60&t=214s">
 		<img src="https://github.com/ferdiozer/tandir/blob/main/assets/images/tandir-cover.jpg" alt="Tinder Swipe Cards-Kısmetindir"></a>
 </center>
 
